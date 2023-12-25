@@ -4,6 +4,6 @@
     <li><a href="./about.md">About</a></li>
     <li><a href="./skills.md">Skills</a></li>
     <li><a href="./statistics.md">Statistics</a></li>
-    <h1><img src="./hello-world" width="40px"></h1>
+    <h1><img src="./hello.gif" width="40px"></h1>
     
 </ul>
