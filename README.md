@@ -5,5 +5,5 @@
     <li><a href="./skills.md">Skills</a></li>
     <li><a href="./statistics.md">Statistics</a></li>
     <h1><img src="./hello.gif" width="400px"></h1>
-    
+    <img align="middle" src="./hello.gif" alt="myimage" />
 </ul>
