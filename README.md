@@ -4,4 +4,6 @@
     <li><a href="./about.md">About</a></li>
     <li><a href="./skills.md">Skills</a></li>
     <li><a href="./statistics.md">Statistics</a></li>
+    <h1><img src="./wave.gif" width="40px"></h1>
+    
 </ul>
